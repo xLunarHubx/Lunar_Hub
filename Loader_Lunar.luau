@@ -1,4 +1,4 @@
-local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/xLunarHubx/Lunar_Hub/refs/heads/main/Games.luau", true))()
+local Games = loadstring(game:HttpGet("https://raw.githubusercontent.com/xLunarHubx/Lunar_Hub/refs/heads/main/Games.lua", true))()
 local URL = Games[game.PlaceId]
 
 if URL then
